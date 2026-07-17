@@ -2,6 +2,18 @@
 
 Welcome to the OctoAcme Project Management Documentation Hub. This README provides an overview of our project management approach and serves as a navigation guide to our detailed process documentation.
 
+## Overview of OctoAcme Project Management
+
+OctoAcme follows a structured, iterative approach to project delivery that balances customer value, team collaboration, and measurable outcomes. Our methodology is designed to:
+
+- **Deliver customer value incrementally** through small, testable releases
+- **Maintain transparency** across stakeholders with clear ownership and communication
+- **Manage risk proactively** by identifying and mitigating blockers early
+- **Learn continuously** through structured retrospectives and feedback loops
+- **Enable autonomy** while maintaining alignment through well-defined processes
+
+Our projects follow a consistent five-phase lifecycle with defined roles (Project Manager, Product Manager, Developers, QA), clear artifacts (charters, backlogs, risk registers), and regular synchronization cadences to ensure delivery success.
+
 ## Our Approach
 
 OctoAcme runs projects using these core principles:
